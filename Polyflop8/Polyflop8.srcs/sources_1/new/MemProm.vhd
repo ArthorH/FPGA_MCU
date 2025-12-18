@@ -1,21 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: Chrome electronics
 -- Engineer: Artem Horiunov
--- 
 -- Create Date: 27.11.2025
 -- Design Name: Memory Controller
--- Module Name: Memory - Behavioral
--- Project Name: VHDL-MCU-8
+-- Project Name: PolyFlop8
 -- Target Devices: Artix7 XC7A35T-1CPG236C
--- Tool Versions: 
 -- Description: Data RAM Controller (256-byte memory)
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
 ----------------------------------------------------------------------------------
 
 library IEEE;
